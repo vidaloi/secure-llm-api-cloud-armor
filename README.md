@@ -22,7 +22,7 @@ Ce projet a pour objectif de concevoir un framework permettant de tester la robu
   - Toxicité
   - Violation de politique
 
-- Proposer des **bonnes pratiques** pour sécuriser les workloads IA exposés en API publique.
+- Proposer des **best pratices** pour sécuriser les workloads IA exposés en API publique.
 
 ## Architecture 
 
@@ -42,3 +42,29 @@ LLM APIs (MitralAI, Hugging Face, Gemini, etc.)
 
 
 
+## Roadmap
+
+- [ ] Déploiement GKE
+- [ ] Load Balancer + Cloud Armor
+- [ ] Déploiement APIs LLM
+- [ ] Intégration Model Armor
+- [ ] CI/CD pipeline
+- [ ] Dashboard React
+- [ ] Documentation des bonnes pratiques
+
+## Technologies
+
+- Google Cloud Platform (GKE, Cloud Armor, IAM)
+- Kubernetes
+- Terraform
+- Model Armor API
+- GitHub Actions
+- React
+- Docker
+
+
+
+## Auteur
+
+Vidyavardini D. — 2025  
+Apprentie Cloud Security Architect & DevSecOps à en devenir
