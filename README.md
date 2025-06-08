@@ -24,6 +24,21 @@ Ce projet a pour objectif de concevoir un framework permettant de tester la robu
 
 - Proposer des **bonnes pratiques** pour sécuriser les workloads IA exposés en API publique.
 
-## Architecture
+## Architecture 
+
+Client (Front React)
+        |
+        v
+Google Cloud Load Balancer
+        |
+        v
+Google Cloud Armor (WAF)
+        |
+        v
+Google Kubernetes Engine (GKE)
+        |
+        v
+LLM APIs (MitralAI, Hugging Face, Gemini, etc.)
+
 
 
