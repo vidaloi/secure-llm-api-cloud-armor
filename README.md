@@ -1,4 +1,4 @@
-# secure-llm-api-cloud-armor
+# secure-llm-api-cloud-armor (WORK IN PROGRESS)
 Création d’un framework open-source pour tester la robustesse des APIs LLM (Model Armor + GKE + Cloud Armor) dans un pipeline DevSecOps.
 # Secure LLM API Cloud Armor
 
